@@ -14,7 +14,9 @@
     "react-dom": "18.0.0"
   },
   "devDependencies": {
+    "@radix-ui/colors": "^0.1.8",
     "@ramosdiego/reservoir": "^0.0.15",
+    "@stitches/react": "^1.2.7",
     "autoprefixer": "^10.4.4",
     "eslint": "8.13.0",
     "eslint-config-next": "12.1.5",
